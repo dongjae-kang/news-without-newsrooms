@@ -1,4 +1,4 @@
-name: Deploy participant guide
+name: Deploy move notice
 
 on:
   push:
@@ -24,6 +24,7 @@ jobs:
       - uses: actions/configure-pages@v5
       - run: npm ci
       - run: npm run build
+      - run: node scripts/build-redirect.mjs
       - uses: actions/upload-pages-artifact@v4
         with:
           path: dist

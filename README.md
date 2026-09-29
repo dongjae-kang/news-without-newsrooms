@@ -1,37 +1,9 @@
-# News Without Newsrooms
+# News Without Newsrooms: previous address
 
-Participant guide prototype for a proposed CHI 2027 workshop on belief, spread, and aftermath as questions for journalism and HCI.
+The participant guide now lives at **https://news-without-newsrooms.github.io/**.
 
-**Acceptance is pending. Submissions are not open.** Program and participation details are provisional.
+The active source repository is [news-without-newsrooms/news-without-newsrooms.github.io](https://github.com/news-without-newsrooms/news-without-newsrooms.github.io).
 
-[Open the participant guide](https://dongjae-kang.github.io/news-without-newsrooms/)
+This repository keeps the previous address working. GitHub Actions builds its existing assets, then replaces the landing page and worksheet with redirects to the workshop site. The previous figure URL remains available.
 
-## Develop
-
-Use Node.js 24 or newer.
-
-```sh
-npm ci
-npm run dev
-```
-
-Open the local URL with `/news-without-newsrooms/` appended.
-
-```sh
-npm run build
-npm run preview
-```
-
-The build checks TypeScript, bundles the interactive components, and prerenders the complete page into `dist/index.html`. GitHub Pages serves only `dist/`.
-
-## Update
-
-- Workshop content: `app/page.tsx`
-- Organizer biographies: `app/organizers.json`
-- Styling: `app/globals.css`
-- Printable worksheet: `public/worksheet.html`
-- Workshop figure: `public/workshop-overview.png`
-
-Pushing to `main` runs `.github/workflows/pages.yml` and publishes to GitHub Pages. No hosting token or application server is needed. The repository name and Vite base path must remain aligned.
-
-Contact: [Dongjae Kang](mailto:dk3500@columbia.edu).
+Workshop content updates belong in the active organization repository.
