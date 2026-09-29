@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dongjae Kang",
+    "bio": "is a master's student in Technology Policy and Innovation at Columbia University and a United Nations Statistics Division intern developing source-linked records of commission decisions. He co-authored CrisisNews, presented at News Futures at CHI 2025, and builds PRISM, a news platform connecting coverage to sources. He will lead workshop planning, coordinate the case pack, and guide synthesis into shared research questions.",
+    "affiliation": "Columbia University"
+  },
+  {
+    "name": "Sze Wing (Hesper) Lui",
+    "bio": "is an MPA candidate at Columbia University studying Technology Policy and Innovation and Cybersecurity. Her research on legitimacy laundering and experience in public communication, including at MSCI, connect platform accountability to how claims circulate. She will coordinate outreach and facilitate the spread-stage discussion, helping participants connect interface cues, communication practices, and accountability questions.",
+    "affiliation": "Columbia University"
+  },
+  {
+    "name": "Sara Shibata",
+    "bio": "studies International Security and Diplomacy and Technology Policy at Columbia University and serves as Communications Director for SIPA Cyber's Digital and Cyber Program. She holds a master's in Public Policy from the University of Tokyo, where she researched Japanese youth's civic participation on social media. She will facilitate the aftermath-stage discussion, connecting Japanese case material to questions about policy, public response, and accountability.",
+    "affiliation": "Columbia University"
+  },
+  {
+    "name": "Shree Saikia",
+    "bio": "will help prepare questions about journalistic verification and correction and support the aftermath-stage discussion.",
+    "affiliation": "Columbia University"
+  },
+  {
+    "name": "Xuefei (Sophie) Ren",
+    "bio": "is an MPA candidate in Technology Policy and Innovation at Columbia University, with a background in international business and psychology. Her work spans consulting, companion robotics strategy, and responsible-AI entrepreneurship. She will design and facilitate the transfer exercise, drawing on product experience to help participants turn case observations into interface proposals and articulate user needs, tradeoffs, and failure modes.",
+    "affiliation": "Columbia University"
+  },
+  {
+    "name": "Puyu (Irene) Cui",
+    "bio": "is a master's student in Computer and Information Science at the University of Pennsylvania. With a background in computer science, statistics, and finance, she works on AI and machine learning, including natural language processing, reinforcement learning, and AI agents. She will develop the worksheet and facilitate the post-stage discussion, connecting AI capabilities to what users can see, verify, and do.",
+    "affiliation": "University of Pennsylvania"
+  }
+]
